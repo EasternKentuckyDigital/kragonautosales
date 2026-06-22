@@ -1,0 +1,9 @@
+# Local source material kept out of the static Pages repo.
+website/
+saturnion/
+Chevy Tracker/
+ChevyUplander/
+
+# macOS metadata.
+._*
+.DS_Store

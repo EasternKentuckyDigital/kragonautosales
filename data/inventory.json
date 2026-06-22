@@ -1,0 +1,117 @@
+{
+  "business": {
+    "name": "Kragon Auto Sales LLC",
+    "tagline": "Used cars in Jackson, Kentucky.",
+    "phone": "+16065685622",
+    "phoneDisplay": "(606) 568-5622",
+    "email": "gross.ronnie@gmail.com",
+    "address": "Jackson, KY",
+    "hours": "Mon-Sat by appointment"
+  },
+  "vehicles": [
+    {
+      "id": "2006-chevrolet-uplander-lt",
+      "year": 2006,
+      "make": "Chevrolet",
+      "model": "Uplander",
+      "trim": "LT",
+      "price": 5500,
+      "mileage": 111694,
+      "vin": "",
+      "stockNumber": "",
+      "exterior": "",
+      "interior": "",
+      "transmission": "Automatic",
+      "drivetrain": "FWD",
+      "engine": "3.9L V6",
+      "description": "Very clean Chevrolet Uplander LT in great shape with entertainment package, DVD player, excellent tires, and a clean title.",
+      "highlights": [
+        "3.9L V6",
+        "Entertainment package",
+        "DVD player",
+        "Excellent tires",
+        "Clean title"
+      ],
+      "featured": true,
+      "status": "available",
+      "photos": [
+        "assets/cars/2006-chevrolet-uplander-lt/06.jpg",
+        "assets/cars/2006-chevrolet-uplander-lt/05.jpg",
+        "assets/cars/2006-chevrolet-uplander-lt/04.jpg",
+        "assets/cars/2006-chevrolet-uplander-lt/03.jpg",
+        "assets/cars/2006-chevrolet-uplander-lt/02.jpg",
+        "assets/cars/2006-chevrolet-uplander-lt/01.jpg"
+      ],
+      "updatedAt": "2026-06-21T00:00:00.000Z"
+    },
+    {
+      "id": "1999-chevrolet-tracker",
+      "year": 1999,
+      "make": "Chevrolet",
+      "model": "Tracker",
+      "trim": "",
+      "price": 4999,
+      "mileage": 72950,
+      "vin": "",
+      "stockNumber": "",
+      "exterior": "",
+      "interior": "",
+      "transmission": "Automatic",
+      "drivetrain": "4WD",
+      "engine": "2.0L 4-cylinder",
+      "description": "Clean-title Chevrolet Tracker with new tires, new brakes, fresh oil change, and new wipers.",
+      "highlights": [
+        "2.0L 4-cylinder",
+        "4WD",
+        "4 new tires",
+        "New brakes",
+        "Clean title"
+      ],
+      "featured": false,
+      "status": "available",
+      "photos": [
+        "assets/cars/1999-chevrolet-tracker/02.jpg",
+        "assets/cars/1999-chevrolet-tracker/05.jpg",
+        "assets/cars/1999-chevrolet-tracker/04.jpg",
+        "assets/cars/1999-chevrolet-tracker/03.jpg",
+        "assets/cars/1999-chevrolet-tracker/01.jpg"
+      ],
+      "updatedAt": "2026-06-21T00:00:00.000Z"
+    },
+    {
+      "id": "2006-saturn-ion",
+      "year": 2006,
+      "make": "Saturn",
+      "model": "Ion",
+      "trim": "",
+      "price": 3995,
+      "mileage": 39866,
+      "vin": "",
+      "stockNumber": "",
+      "exterior": "",
+      "interior": "",
+      "transmission": "Automatic",
+      "drivetrain": "",
+      "engine": "2.2L",
+      "description": "Low-mileage Saturn Ion with cold A/C, no rust, two new tires, and strong running and driving condition.",
+      "highlights": [
+        "2.2L engine",
+        "Only 39,866 miles",
+        "Cold A/C",
+        "No rust",
+        "2 new tires"
+      ],
+      "featured": false,
+      "status": "available",
+      "photos": [
+        "assets/cars/2006-saturn-ion/04.jpg",
+        "assets/cars/2006-saturn-ion/02.jpg",
+        "assets/cars/2006-saturn-ion/05.jpg",
+        "assets/cars/2006-saturn-ion/03.jpg",
+        "assets/cars/2006-saturn-ion/01.jpg",
+        "assets/cars/2006-saturn-ion/06.jpg"
+      ],
+      "updatedAt": "2026-06-21T00:00:00.000Z"
+    }
+  ]
+}
