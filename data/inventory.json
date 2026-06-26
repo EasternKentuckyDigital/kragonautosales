@@ -10,6 +10,41 @@
   },
   "vehicles": [
     {
+      "id": "2015-chevrolet-sonic",
+      "year": 2015,
+      "make": "Chevrolet",
+      "model": "Sonic",
+      "trim": "",
+      "price": 4999,
+      "mileage": 109200,
+      "vin": "",
+      "stockNumber": "",
+      "exterior": "Red",
+      "interior": "",
+      "transmission": "Automatic",
+      "drivetrain": "",
+      "engine": "1.8L",
+      "description": "Chevrolet Sonic with a 1.8L engine, automatic transmission, keyless entry, good tires, and remote start.",
+      "highlights": [
+        "1.8L engine",
+        "Automatic transmission",
+        "Keyless entry",
+        "Remote start",
+        "Good tires"
+      ],
+      "featured": true,
+      "status": "available",
+      "photos": [
+        "assets/cars/2015-chevrolet-sonic/01.jpg",
+        "assets/cars/2015-chevrolet-sonic/02.jpg",
+        "assets/cars/2015-chevrolet-sonic/03.jpg",
+        "assets/cars/2015-chevrolet-sonic/04.jpg",
+        "assets/cars/2015-chevrolet-sonic/05.jpg",
+        "assets/cars/2015-chevrolet-sonic/06.jpg"
+      ],
+      "updatedAt": "2026-06-25T00:00:00.000Z"
+    },
+    {
       "id": "2006-chevrolet-uplander-lt",
       "year": 2006,
       "make": "Chevrolet",
