@@ -36,12 +36,50 @@
       "featured": true,
       "status": "available",
       "photos": [
-        "assets/cars/2015-chevrolet-sonic/01.jpg",
         "assets/cars/2015-chevrolet-sonic/02.jpg",
+        "assets/cars/2015-chevrolet-sonic/01.jpg",
         "assets/cars/2015-chevrolet-sonic/03.jpg",
         "assets/cars/2015-chevrolet-sonic/04.jpg",
         "assets/cars/2015-chevrolet-sonic/05.jpg",
         "assets/cars/2015-chevrolet-sonic/06.jpg"
+      ],
+      "updatedAt": "2026-06-29T00:00:00.000Z"
+    },
+    {
+      "id": "2014-chevrolet-spark",
+      "year": 2014,
+      "make": "Chevrolet",
+      "model": "Spark",
+      "trim": "",
+      "price": 4999,
+      "mileage": 105100,
+      "vin": "",
+      "stockNumber": "",
+      "exterior": "White",
+      "interior": "",
+      "transmission": "Automatic",
+      "drivetrain": "",
+      "engine": "1.2L",
+      "description": "Chevy Spark with a 1.2L engine, automatic transmission, 105,100 miles, new battery, 4 new tires, clean title, and keyless entry. Call Ronnie at 606-558-5622.",
+      "highlights": [
+        "1.2L engine",
+        "Automatic transmission",
+        "105,100 miles",
+        "New battery",
+        "4 new tires",
+        "Clean title",
+        "Keyless entry"
+      ],
+      "featured": true,
+      "status": "available",
+      "photos": [
+        "assets/cars/2014-chevrolet-spark/01.jpg",
+        "assets/cars/2014-chevrolet-spark/02.jpg",
+        "assets/cars/2014-chevrolet-spark/03.jpg",
+        "assets/cars/2014-chevrolet-spark/04.jpg",
+        "assets/cars/2014-chevrolet-spark/05.jpg",
+        "assets/cars/2014-chevrolet-spark/06.jpg",
+        "assets/cars/2014-chevrolet-spark/07.jpg"
       ],
       "updatedAt": "2026-06-29T00:00:00.000Z"
     },
@@ -71,7 +109,17 @@
       ],
       "featured": true,
       "status": "available",
-      "photos": [],
+      "photos": [
+        "assets/cars/2017-nissan-versa-s-plus/01.jpg",
+        "assets/cars/2017-nissan-versa-s-plus/02.jpg",
+        "assets/cars/2017-nissan-versa-s-plus/03.jpg",
+        "assets/cars/2017-nissan-versa-s-plus/04.jpg",
+        "assets/cars/2017-nissan-versa-s-plus/05.jpg",
+        "assets/cars/2017-nissan-versa-s-plus/06.jpg",
+        "assets/cars/2017-nissan-versa-s-plus/07.jpg",
+        "assets/cars/2017-nissan-versa-s-plus/08.jpg",
+        "assets/cars/2017-nissan-versa-s-plus/09.jpg"
+      ],
       "updatedAt": "2026-06-29T00:00:00.000Z"
     },
     {
