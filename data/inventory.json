@@ -24,13 +24,14 @@
       "transmission": "Automatic",
       "drivetrain": "",
       "engine": "1.8L",
-      "description": "Chevrolet Sonic with a 1.8L engine, automatic transmission, keyless entry, good tires, and remote start.",
+      "description": "Chevy Sonic with a 1.8L engine, automatic transmission, 109,200 miles, keyless entry, good tires, and remote start. Call Ronnie.",
       "highlights": [
         "1.8L engine",
         "Automatic transmission",
+        "109,200 miles",
         "Keyless entry",
-        "Remote start",
-        "Good tires"
+        "Good tires",
+        "Remote start"
       ],
       "featured": true,
       "status": "available",
@@ -42,7 +43,36 @@
         "assets/cars/2015-chevrolet-sonic/05.jpg",
         "assets/cars/2015-chevrolet-sonic/06.jpg"
       ],
-      "updatedAt": "2026-06-25T00:00:00.000Z"
+      "updatedAt": "2026-06-29T00:00:00.000Z"
+    },
+    {
+      "id": "2017-nissan-versa-s-plus",
+      "year": 2017,
+      "make": "Nissan",
+      "model": "Versa",
+      "trim": "S Plus",
+      "price": 4532,
+      "mileage": 110420,
+      "vin": "",
+      "stockNumber": "",
+      "exterior": "",
+      "interior": "",
+      "transmission": "Automatic",
+      "drivetrain": "",
+      "engine": "1.6L",
+      "description": "Nissan Versa S Plus with a 1.6L engine, automatic transmission, 110,420 miles, excellent tires, clean title, and strong running and driving condition. Call Ronnie.",
+      "highlights": [
+        "1.6L engine",
+        "Automatic transmission",
+        "110,420 miles",
+        "Excellent tires",
+        "Clean title",
+        "Runs and drives well"
+      ],
+      "featured": true,
+      "status": "available",
+      "photos": [],
+      "updatedAt": "2026-06-29T00:00:00.000Z"
     },
     {
       "id": "2006-chevrolet-uplander-lt",
@@ -76,75 +106,6 @@
         "assets/cars/2006-chevrolet-uplander-lt/03.jpg",
         "assets/cars/2006-chevrolet-uplander-lt/02.jpg",
         "assets/cars/2006-chevrolet-uplander-lt/01.jpg"
-      ],
-      "updatedAt": "2026-06-21T00:00:00.000Z"
-    },
-    {
-      "id": "1999-chevrolet-tracker",
-      "year": 1999,
-      "make": "Chevrolet",
-      "model": "Tracker",
-      "trim": "",
-      "price": 4999,
-      "mileage": 72950,
-      "vin": "",
-      "stockNumber": "",
-      "exterior": "",
-      "interior": "",
-      "transmission": "Automatic",
-      "drivetrain": "4WD",
-      "engine": "2.0L 4-cylinder",
-      "description": "Clean-title Chevrolet Tracker with new tires, new brakes, fresh oil change, and new wipers.",
-      "highlights": [
-        "2.0L 4-cylinder",
-        "4WD",
-        "4 new tires",
-        "New brakes",
-        "Clean title"
-      ],
-      "featured": false,
-      "status": "available",
-      "photos": [
-        "assets/cars/1999-chevrolet-tracker/02.jpg",
-        "assets/cars/1999-chevrolet-tracker/05.jpg",
-        "assets/cars/1999-chevrolet-tracker/04.jpg",
-        "assets/cars/1999-chevrolet-tracker/03.jpg",
-        "assets/cars/1999-chevrolet-tracker/01.jpg"
-      ],
-      "updatedAt": "2026-06-21T00:00:00.000Z"
-    },
-    {
-      "id": "2006-saturn-ion",
-      "year": 2006,
-      "make": "Saturn",
-      "model": "Ion",
-      "trim": "",
-      "price": 3995,
-      "mileage": 39866,
-      "vin": "",
-      "stockNumber": "",
-      "exterior": "",
-      "interior": "",
-      "transmission": "Automatic",
-      "drivetrain": "",
-      "engine": "2.2L",
-      "description": "Low-mileage Saturn Ion with cold A/C, no rust, two new tires, and strong running and driving condition.",
-      "highlights": [
-        "2.2L engine",
-        "Only 39,866 miles",
-        "Cold A/C",
-        "No rust",
-        "2 new tires"
-      ],
-      "featured": false,
-      "status": "available",
-      "photos": [
-        "assets/cars/2006-saturn-ion/04.jpg",
-        "assets/cars/2006-saturn-ion/02.jpg",
-        "assets/cars/2006-saturn-ion/05.jpg",
-        "assets/cars/2006-saturn-ion/03.jpg",
-        "assets/cars/2006-saturn-ion/01.jpg",
-        "assets/cars/2006-saturn-ion/06.jpg"
       ],
       "updatedAt": "2026-06-21T00:00:00.000Z"
     }
