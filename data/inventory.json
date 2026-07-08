@@ -10,6 +10,44 @@
   },
   "vehicles": [
     {
+      "id": "2013-chevrolet-equinox",
+      "year": 2013,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "trim": "",
+      "price": 6500,
+      "mileage": 118721,
+      "vin": "",
+      "stockNumber": "",
+      "exterior": "Silver",
+      "interior": "",
+      "transmission": "Automatic",
+      "drivetrain": "FWD",
+      "engine": "2.4L",
+      "description": "2013 Chevrolet Equinox with a 2.4L engine, automatic transmission, 118,721 miles, front wheel drive, clean title, recent oil change, and great running and driving condition. Call Ronnie at 606-568-5622.",
+      "highlights": [
+        "2.4L engine",
+        "Automatic transmission",
+        "118,721 miles",
+        "Front wheel drive",
+        "Clean title",
+        "Recent oil change",
+        "Runs and drives great"
+      ],
+      "featured": true,
+      "status": "available",
+      "photos": [
+        "assets/cars/2013-chevrolet-equinox/01.jpg",
+        "assets/cars/2013-chevrolet-equinox/02.jpg",
+        "assets/cars/2013-chevrolet-equinox/03.jpg",
+        "assets/cars/2013-chevrolet-equinox/04.jpg",
+        "assets/cars/2013-chevrolet-equinox/05.jpg",
+        "assets/cars/2013-chevrolet-equinox/06.jpg",
+        "assets/cars/2013-chevrolet-equinox/07.jpg"
+      ],
+      "updatedAt": "2026-07-08T00:00:00.000Z"
+    },
+    {
       "id": "2015-chevrolet-sonic",
       "year": 2015,
       "make": "Chevrolet",
