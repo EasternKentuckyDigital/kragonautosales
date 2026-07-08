@@ -84,45 +84,6 @@
       "updatedAt": "2026-06-29T00:00:00.000Z"
     },
     {
-      "id": "2017-nissan-versa-s-plus",
-      "year": 2017,
-      "make": "Nissan",
-      "model": "Versa",
-      "trim": "S Plus",
-      "price": 4532,
-      "mileage": 110420,
-      "vin": "",
-      "stockNumber": "",
-      "exterior": "",
-      "interior": "",
-      "transmission": "Automatic",
-      "drivetrain": "",
-      "engine": "1.6L",
-      "description": "Nissan Versa S Plus with a 1.6L engine, automatic transmission, 110,420 miles, excellent tires, clean title, and strong running and driving condition. Call Ronnie.",
-      "highlights": [
-        "1.6L engine",
-        "Automatic transmission",
-        "110,420 miles",
-        "Excellent tires",
-        "Clean title",
-        "Runs and drives well"
-      ],
-      "featured": true,
-      "status": "available",
-      "photos": [
-        "assets/cars/2017-nissan-versa-s-plus/01.jpg",
-        "assets/cars/2017-nissan-versa-s-plus/02.jpg",
-        "assets/cars/2017-nissan-versa-s-plus/03.jpg",
-        "assets/cars/2017-nissan-versa-s-plus/04.jpg",
-        "assets/cars/2017-nissan-versa-s-plus/05.jpg",
-        "assets/cars/2017-nissan-versa-s-plus/06.jpg",
-        "assets/cars/2017-nissan-versa-s-plus/07.jpg",
-        "assets/cars/2017-nissan-versa-s-plus/08.jpg",
-        "assets/cars/2017-nissan-versa-s-plus/09.jpg"
-      ],
-      "updatedAt": "2026-06-29T00:00:00.000Z"
-    },
-    {
       "id": "2006-chevrolet-uplander-lt",
       "year": 2006,
       "make": "Chevrolet",
