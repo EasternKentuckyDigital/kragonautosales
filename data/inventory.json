@@ -109,7 +109,7 @@
         "Remote start"
       ],
       "featured": true,
-      "status": "available",
+      "status": "sold",
       "photos": [
         "assets/cars/2015-chevrolet-sonic/02.jpg",
         "assets/cars/2015-chevrolet-sonic/01.jpg",
@@ -118,7 +118,7 @@
         "assets/cars/2015-chevrolet-sonic/05.jpg",
         "assets/cars/2015-chevrolet-sonic/06.jpg"
       ],
-      "updatedAt": "2026-06-29T00:00:00.000Z"
+      "updatedAt": "2026-07-30T00:39:35.165169Z"
     },
     {
       "id": "2014-chevrolet-spark",
