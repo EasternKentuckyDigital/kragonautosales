@@ -35,7 +35,7 @@
         "Runs and drives great"
       ],
       "featured": true,
-      "status": "sold",
+      "status": "available",
       "photos": [
         "assets/cars/2013-chevrolet-equinox/01.jpg",
         "assets/cars/2013-chevrolet-equinox/02.jpg",
@@ -45,7 +45,7 @@
         "assets/cars/2013-chevrolet-equinox/06.jpg",
         "assets/cars/2013-chevrolet-equinox/07.jpg"
       ],
-      "updatedAt": "2026-07-30T00:39:13.296962Z"
+      "updatedAt": "2026-07-30T00:46:49.541612Z"
     },
     {
       "id": "2013-chevrolet-equinox-awd",
