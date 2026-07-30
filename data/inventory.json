@@ -146,7 +146,7 @@
         "Keyless entry"
       ],
       "featured": true,
-      "status": "available",
+      "status": "sold",
       "photos": [
         "assets/cars/2014-chevrolet-spark/01.jpg",
         "assets/cars/2014-chevrolet-spark/02.jpg",
@@ -156,7 +156,7 @@
         "assets/cars/2014-chevrolet-spark/06.jpg",
         "assets/cars/2014-chevrolet-spark/07.jpg"
       ],
-      "updatedAt": "2026-06-29T00:00:00.000Z"
+      "updatedAt": "2026-07-30T00:39:29.803620Z"
     },
     {
       "id": "2006-chevrolet-uplander-lt",
