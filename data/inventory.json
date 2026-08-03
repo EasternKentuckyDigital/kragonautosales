@@ -15,7 +15,7 @@
       "make": "Chevrolet",
       "model": "Equinox",
       "trim": "",
-      "price": 6500,
+      "price": 5500,
       "mileage": 118721,
       "vin": "",
       "stockNumber": "",
@@ -46,6 +46,42 @@
         "assets/cars/2013-chevrolet-equinox/07.jpg"
       ],
       "updatedAt": "2026-07-30T00:46:49.541612Z"
+    },
+    {
+      "id": "2015-chevrolet-sonic-green",
+      "year": 2015,
+      "make": "Chevrolet",
+      "model": "Sonic",
+      "trim": "",
+      "price": 5500,
+      "mileage": 95700,
+      "vin": "",
+      "stockNumber": "",
+      "exterior": "Green",
+      "interior": "",
+      "transmission": "Automatic",
+      "drivetrain": "",
+      "engine": "1.8L",
+      "description": "2015 Chevrolet Sonic with a 1.8L engine, automatic transmission, 95,700 miles, 4 new tires, new tune up, and cold AC. Call Ronnie at 606-568-5622.",
+      "highlights": [
+        "1.8L engine",
+        "Automatic transmission",
+        "95,700 miles",
+        "4 new tires",
+        "New tune up",
+        "Cold AC"
+      ],
+      "featured": true,
+      "status": "available",
+      "photos": [
+        "assets/cars/2015-chevrolet-sonic-green/01.jpg",
+        "assets/cars/2015-chevrolet-sonic-green/02.jpg",
+        "assets/cars/2015-chevrolet-sonic-green/03.jpg",
+        "assets/cars/2015-chevrolet-sonic-green/04.jpg",
+        "assets/cars/2015-chevrolet-sonic-green/05.jpg",
+        "assets/cars/2015-chevrolet-sonic-green/06.jpg"
+      ],
+      "updatedAt": "2026-08-03T00:00:00.000Z"
     },
     {
       "id": "2013-chevrolet-equinox-awd",
