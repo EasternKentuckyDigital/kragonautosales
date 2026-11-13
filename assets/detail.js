@@ -68,7 +68,7 @@ function renderDetail(vehicle) {
       </div>
 
       <article class="detail-info">
-        <p class="eyebrow">Available now</p>
+        <p class="eyebrow">${vehicle.status === "sold" ? "Sold — no longer available" : "Available now"}</p>
         <h1>${escapeHtml(title)}</h1>
         <p class="detail-price">${vehicle.price ? money.format(vehicle.price) : "Call for price"}</p>
         <ul class="detail-specs">

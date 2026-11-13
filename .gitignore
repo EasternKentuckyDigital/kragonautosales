@@ -7,3 +7,11 @@ ChevyUplander/
 # macOS metadata.
 ._*
 .DS_Store
+
+# Credentials and generated site output.
+.env
+.env.*
+!.env.example
+dist/
+node_modules/
+*.tmp

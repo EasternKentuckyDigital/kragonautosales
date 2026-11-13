@@ -1,0 +1,12 @@
+{
+  "name": "kragon-auto-inventory",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "sync:preview": "node scripts/sync-facebook.mjs",
+    "sync:apply": "node scripts/sync-facebook.mjs --apply",
+    "build": "node scripts/build-pages.mjs"
+  },
+  "engines": { "node": ">=22" }
+}
