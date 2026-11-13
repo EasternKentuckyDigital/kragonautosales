@@ -35,7 +35,7 @@
         "Runs and drives great"
       ],
       "featured": true,
-      "status": "available",
+      "status": "sold",
       "photos": [
         "assets/cars/2013-chevrolet-equinox/01.jpg",
         "assets/cars/2013-chevrolet-equinox/02.jpg",
@@ -45,7 +45,7 @@
         "assets/cars/2013-chevrolet-equinox/06.jpg",
         "assets/cars/2013-chevrolet-equinox/07.jpg"
       ],
-      "updatedAt": "2026-07-30T00:46:49.541612Z"
+      "updatedAt": "2026-11-13T18:47:05.648Z"
     },
     {
       "id": "2015-chevrolet-sonic-green",
@@ -72,7 +72,7 @@
         "Cold AC"
       ],
       "featured": true,
-      "status": "available",
+      "status": "sold",
       "photos": [
         "assets/cars/2015-chevrolet-sonic-green/01.jpg",
         "assets/cars/2015-chevrolet-sonic-green/02.jpg",
@@ -81,7 +81,7 @@
         "assets/cars/2015-chevrolet-sonic-green/05.jpg",
         "assets/cars/2015-chevrolet-sonic-green/06.jpg"
       ],
-      "updatedAt": "2026-08-03T00:00:00.000Z"
+      "updatedAt": "2026-11-13T18:47:05.648Z"
     },
     {
       "id": "2013-chevrolet-equinox-awd",
@@ -218,7 +218,7 @@
         "Clean title"
       ],
       "featured": true,
-      "status": "available",
+      "status": "sold",
       "photos": [
         "assets/cars/2006-chevrolet-uplander-lt/06.jpg",
         "assets/cars/2006-chevrolet-uplander-lt/05.jpg",
@@ -227,7 +227,119 @@
         "assets/cars/2006-chevrolet-uplander-lt/02.jpg",
         "assets/cars/2006-chevrolet-uplander-lt/01.jpg"
       ],
-      "updatedAt": "2026-06-21T00:00:00.000Z"
+      "updatedAt": "2026-11-13T18:47:05.648Z"
+    },
+    {
+      "id": "facebook-1680032633654113",
+      "trim": "",
+      "vin": "",
+      "stockNumber": "",
+      "exterior": "",
+      "interior": "",
+      "featured": true,
+      "photos": [
+        "assets/cars/facebook/0520a968038b6d14675040de3b4d4a1827ca8b7c1f0eb1a81c72a6409e713453.jpg",
+        "assets/cars/facebook/1617bff1b9333045f59f3c24ea46998ffbb70f540589124b25405ca49e6cc243.jpg",
+        "assets/cars/facebook/616702cf0ea073bd900484cefa9de7f9730a11ee183219a8d31f60a5b8294a4b.jpg",
+        "assets/cars/facebook/cb90e362ec40eca8f9a0849a1ee0558ca360adc1098f5e6e12f821c7726cbf0d.jpg",
+        "assets/cars/facebook/2d82927266481fbf563c87c94ad71ce1f3c9753d3da54dab2ba73a100d3f71e8.jpg"
+      ],
+      "year": 2018,
+      "make": "Hyundai",
+      "model": "Santa Fe Sport",
+      "price": 11000,
+      "mileage": 79509,
+      "engine": "2.4L",
+      "drivetrain": "FWD",
+      "transmission": "",
+      "description": "2018 Hyundai Santa Fe Sport \n2.4 L engine \nFront wheel drive \n79,509 miles \n4 new tires \nNew oil change\nHeated seats, backup camera and remote start  \nNew rear brakes and rotors \nSuper clean inside and out \n$11,000\nCall Ronnie 606- 568- 5622",
+      "highlights": [],
+      "status": "available",
+      "updatedAt": "2026-11-13T18:47:05.648Z"
+    },
+    {
+      "id": "facebook-1675230087467701",
+      "trim": "",
+      "vin": "",
+      "stockNumber": "",
+      "exterior": "",
+      "interior": "",
+      "featured": true,
+      "photos": [
+        "assets/cars/facebook/4ff55e9543abbb1ddf8fe36fa11d03a8f80dab010c3384c5073f6abb65f1b33b.jpg",
+        "assets/cars/facebook/6e0c8b3f7280b714a514eaad9da6fe4a8eac6f1c5a3a56f9e0aeaafca3c7a1f3.jpg",
+        "assets/cars/facebook/5621ee455806e569ae27639d29f781bebb293a162f5d1839cdba27ffcf8bbffc.jpg",
+        "assets/cars/facebook/f4895fb4f6f52e32bdfee3018b7ab35caf6e52c179ddc238c9f418408a217f25.jpg",
+        "assets/cars/facebook/7fc00cda348543a23e68f615f5ec1cda5a051c7468a98f4be384d509dd6c473c.jpg"
+      ],
+      "year": 2015,
+      "make": "Hyundai",
+      "model": "Elantra SE",
+      "price": 10500,
+      "mileage": 15000,
+      "engine": "1.8L",
+      "drivetrain": "",
+      "transmission": "Automatic",
+      "description": "2015 Hyundai Elantra SE\n1.8 L 4 cylinder engine \nAutomatic transmission \nOnly 15,000 miles \nSuper clean \nLike new \nRebuilt title\n$10,500 \nCall Ronnie @ 606-568-5622",
+      "highlights": [],
+      "status": "available",
+      "updatedAt": "2026-11-13T18:47:05.648Z"
+    },
+    {
+      "id": "facebook-1675063287484381",
+      "trim": "",
+      "vin": "",
+      "stockNumber": "",
+      "exterior": "",
+      "interior": "",
+      "featured": true,
+      "photos": [
+        "assets/cars/facebook/cf3a008ed20142314fbda5642797ffdd75e4ef069c91742de9df2ecd5567384c.jpg",
+        "assets/cars/facebook/4d5bc29f6ff171a6d2ef7e8e57d177a69d3ca2244050189d1a8a39a258d88c24.jpg",
+        "assets/cars/facebook/bea596c5124d7b5cbe327b72f0881c9376512c4f20670adb2b67208093e90d28.jpg",
+        "assets/cars/facebook/ad15d3e8264c7cb3467b0819962cc6a9f470aaf0d6dea53b4b4d06ceeacd9126.jpg",
+        "assets/cars/facebook/cd55e8afe937ca31d26cb296a720cc9ddd85ef4e4aa779911b21c4aa94a9953d.jpg"
+      ],
+      "year": 2021,
+      "make": "Hyundai",
+      "model": "Venue",
+      "price": 9500,
+      "mileage": 45767,
+      "engine": "",
+      "drivetrain": "",
+      "transmission": "",
+      "description": "2021 Hyundai Venue \n4 cylinder automotive transmission \n4 new tires\nNew battery \n45,767 miles \nBackup camera \nRebuilt Title\n$9500.00\nCall Ronnie @606-568-5622",
+      "highlights": [],
+      "status": "available",
+      "updatedAt": "2026-11-13T18:47:05.648Z"
+    },
+    {
+      "id": "facebook-1668106744846702",
+      "trim": "",
+      "vin": "",
+      "stockNumber": "",
+      "exterior": "",
+      "interior": "",
+      "featured": true,
+      "photos": [
+        "assets/cars/facebook/c9d4f27031fb0ffd266349938f0a34f0c6cee7569a67ac1e8ad2a2cadaf09b90.jpg",
+        "assets/cars/facebook/5b6da2ba0a58d24f200cadf311e78dd2da5832616c550d993ae945b0731ba3c4.jpg",
+        "assets/cars/facebook/2ef1dec6fafa188d23201edbf68e1783bffcda048e487aebc74371dbdda31523.jpg",
+        "assets/cars/facebook/8f079d351f6cf4933459699291908f178f0f339ec436236f2eb32f515d3e7fad.jpg",
+        "assets/cars/facebook/f6dd9f450a02e0abcfdd4ecb7b3d8a13d5984546ea5b2829f689fc538511c751.jpg"
+      ],
+      "year": 2016,
+      "make": "Ford",
+      "model": "Focus SE",
+      "price": 6999,
+      "mileage": 87461,
+      "engine": "2.0L",
+      "drivetrain": "",
+      "transmission": "Automatic",
+      "description": "2016 Ford Focus SE \n2.0 L engine automatic transmission \nNew oil change \nNew wipers \n4 new Michelin tires \n87,461 miles \n$6999\nCall Ronnie 606-568-5622",
+      "highlights": [],
+      "status": "available",
+      "updatedAt": "2026-11-13T18:47:05.648Z"
     }
   ]
 }
