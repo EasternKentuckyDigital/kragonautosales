@@ -231,6 +231,34 @@
       "highlights": [],
       "status": "available",
       "updatedAt": "2026-11-13T18:47:05.648Z"
+    },
+    {
+      "id": "facebook-1702850991372277",
+      "trim": "",
+      "vin": "",
+      "stockNumber": "",
+      "exterior": "",
+      "interior": "",
+      "featured": true,
+      "photos": [
+        "assets/cars/facebook/97cb19253c619bec04c3d287ce11d06ddcd4b92b9ec2dc7968cb2d63e4800a15.jpg",
+        "assets/cars/facebook/a2f4a5bcac0b45f3ac34c924cf3cacd176036f9aa16869043e60cedeb65e6a28.jpg",
+        "assets/cars/facebook/70f355f1a061c6a57be0d7bfb126328d762579d6af4e145425b3fcff5dffa316.jpg",
+        "assets/cars/facebook/c2fdc877c67a680ff46851a6ad06d4c8a3218df474e506c02cef0c5e8a3a3961.jpg",
+        "assets/cars/facebook/ac66625e70bb0c09b63fd5882ae3d9e05880640dc3043dd2f5ccdd587f905dc7.jpg"
+      ],
+      "year": 2019,
+      "make": "Hyundai",
+      "model": "Sonata",
+      "price": 11000,
+      "mileage": 66540,
+      "engine": "",
+      "drivetrain": "",
+      "transmission": "Automatic",
+      "description": "2019 Hyundai Sonata \n4 cylinder engine \nAutomatic transmission \n66,540 miles \nBack up camera \nHeated seats \n4 new tires \nNew oil change \nExcellent car\n$11,000 \nCall Ronnie 606-568-5622\n#Kragonauto",
+      "highlights": [],
+      "status": "available",
+      "updatedAt": "2026-11-15T15:42:20.273Z"
     }
   ]
 }
