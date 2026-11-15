@@ -1,21 +1,93 @@
 <!doctype html>
-<html lang="en">
+<html lang="en" data-theme="light">
   <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Vehicle details from Kragon Auto Sales LLC in Jackson, Kentucky.">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="Vehicle photos, price, and details from Kragon Auto Sales LLC in Jackson, Kentucky. Call or email Ronnie."
+    />
+    <meta name="theme-color" content="#f7f8fa" />
     <title>Vehicle Details | Kragon Auto Sales LLC</title>
-    <link rel="stylesheet" href="assets/styles.css?v=10">
+    <script src="assets/theme.js?v=1"></script>
+    <link rel="stylesheet" href="assets/styles.css?v=13" />
   </head>
   <body>
-    <main class="detail-shell" id="vehicleDetail" aria-live="polite">
-      <p class="empty-state">Loading vehicle details...</p>
+    <a class="skip-link" href="#vehicleDetail">Skip to vehicle details</a>
+    <header class="site-header">
+      <div class="header-inner">
+        <a class="brand" href="index.html" aria-label="Kragon Auto Sales home"
+          ><span class="brand-mark" aria-hidden="true">K<span>.</span></span
+          ><span class="brand-name">KRAGON<span>AUTO SALES LLC</span></span></a
+        >
+        <div class="header-actions">
+          <button
+            class="theme-toggle"
+            type="button"
+            aria-label="Switch to dark mode"
+            aria-pressed="false"
+            title="Switch to dark mode"
+          >
+            <svg
+              class="moon-icon"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="1.7"
+              aria-hidden="true"
+            >
+              <path
+                d="M20.5 13a8.5 8.5 0 0 1-9.5-9.5A8.5 8.5 0 1 0 20.5 13Z"
+              /></svg
+            ><svg
+              class="sun-icon"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="1.7"
+              aria-hidden="true"
+            >
+              <circle cx="12" cy="12" r="4" />
+              <path
+                d="M12 2v2m0 16v2M2 12h2m16 0h2M5 5l1.5 1.5m11 11L19 19M5 19l1.5-1.5m11-11L19 5"
+              />
+            </svg>
+          </button>
+          <a
+            class="header-phone"
+            data-business-phone-link
+            href="tel:+16065685622"
+            >Call <span data-business-phone>(606) 568-5622</span></a
+          >
+          <a
+            class="header-email"
+            data-business-email-link
+            href="mailto:gross.ronnie@gmail.com"
+            >Email Ronnie</a
+          >
+        </div>
+      </div>
+    </header>
+    <main
+      class="detail-shell"
+      id="vehicleDetail"
+      aria-live="polite"
+      aria-busy="true"
+    >
+      <p class="empty-state">Loading vehicle details…</p>
     </main>
-
+    <noscript
+      ><p class="empty-state">
+        Please enable JavaScript to see vehicle details, or call
+        <a href="tel:+16065685622">(606) 568-5622</a>.
+      </p></noscript
+    >
     <footer class="site-footer">
-      <span>&copy; <span id="year"></span> <span data-business-name>Kragon Auto Sales LLC</span></span>
+      <span
+        >&copy; <span id="year"></span>
+        <span data-business-name>Kragon Auto Sales LLC</span></span
+      ><a href="index.html#inventory">Explore all vehicles →</a>
     </footer>
-
-    <script src="assets/detail.js?v=1"></script>
+    <script src="assets/detail.js?v=3"></script>
   </body>
 </html>

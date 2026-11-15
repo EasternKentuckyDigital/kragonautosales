@@ -1,39 +1,102 @@
 <!doctype html>
-<html lang="en">
+<html lang="en" data-theme="light">
   <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Used cars for sale in Jackson, Kentucky, serving drivers across eastern Kentucky.">
-    <title>Kragon Auto Sales LLC</title>
-    <link rel="stylesheet" href="assets/styles.css?v=10">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="Used cars for sale at Kragon Auto Sales LLC in Jackson, Kentucky. View vehicle photos, prices, and details. Call or email Ronnie."
+    />
+    <meta name="theme-color" content="#f7f8fa" />
+    <title>Used Cars in Jackson, KY | Kragon Auto Sales LLC</title>
+    <script src="assets/theme.js?v=1"></script>
+    <link rel="stylesheet" href="assets/styles.css?v=13" />
   </head>
   <body>
-    <main id="top">
-      <section class="hero">
-        <div class="hero-copy">
-          <p class="eyebrow">Jackson, Kentucky used car sales</p>
-          <h1 data-business-name>Kragon Auto Sales LLC</h1>
+    <a class="skip-link" href="#inventory">Skip to vehicles</a>
+    <header class="site-header">
+      <div class="header-inner">
+        <a class="brand" href="index.html" aria-label="Kragon Auto Sales home"
+          ><span class="brand-mark" aria-hidden="true">K<span>.</span></span
+          ><span class="brand-name">KRAGON<span>AUTO SALES LLC</span></span></a
+        >
+        <div class="header-actions">
+          <button
+            class="theme-toggle"
+            type="button"
+            aria-label="Switch to dark mode"
+            aria-pressed="false"
+            title="Switch to dark mode"
+          >
+            <svg
+              class="moon-icon"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="1.7"
+              aria-hidden="true"
+            >
+              <path
+                d="M20.5 13a8.5 8.5 0 0 1-9.5-9.5A8.5 8.5 0 1 0 20.5 13Z"
+              /></svg
+            ><svg
+              class="sun-icon"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="1.7"
+              aria-hidden="true"
+            >
+              <circle cx="12" cy="12" r="4" />
+              <path
+                d="M12 2v2m0 16v2M2 12h2m16 0h2M5 5l1.5 1.5m11 11L19 19M5 19l1.5-1.5m11-11L19 5"
+              />
+            </svg>
+          </button>
+          <a
+            class="header-phone"
+            data-business-phone-link
+            href="tel:+16065685622"
+            >Call <span data-business-phone>(606) 568-5622</span></a
+          >
+          <a
+            class="header-email"
+            data-business-email-link
+            href="mailto:gross.ronnie@gmail.com"
+            >Email Ronnie</a
+          >
         </div>
-        <aside class="hero-panel" aria-label="Contact Ronnie">
-          <div>
-            <span class="hero-panel-title">Contact Ronnie at</span>
-            <a class="hero-contact-link" data-business-phone-link href="tel:+16065685622" data-business-phone>(606) 568-5622</a>
-            <a class="hero-contact-link" data-business-email-link href="mailto:gross.ronnie@gmail.com" data-business-email>gross.ronnie@gmail.com</a>
-          </div>
-        </aside>
-      </section>
-
-      <section class="section section-tight" id="inventory">
-        <div class="inventory-grid" id="inventoryGrid" aria-live="polite"></div>
-        <p class="empty-state" id="emptyState" hidden>No vehicles are listed right now.</p>
-      </section>
-
+      </div>
+    </header>
+    <main class="inventory-shell" id="inventory">
+      <div class="inventory-heading">
+        <h1>Available vehicles</h1>
+        <span id="inventoryTotal" role="status">Loading…</span>
+      </div>
+      <div class="inventory-grid" id="inventoryGrid" aria-busy="true">
+        <p class="empty-state">Loading vehicles…</p>
+      </div>
+      <p class="empty-state" id="emptyState" hidden>
+        No vehicles are listed right now.
+        <a data-business-phone-link href="tel:+16065685622">Call Ronnie</a> or
+        <a data-business-email-link href="mailto:gross.ronnie@gmail.com"
+          >email</a
+        >.
+      </p>
+      <noscript
+        ><p class="empty-state">
+          Enable JavaScript to view vehicles.
+          <a href="tel:+16065685622">Call Ronnie</a> or
+          <a href="mailto:gross.ronnie@gmail.com">email</a>.
+        </p></noscript
+      >
     </main>
-
     <footer class="site-footer">
-      <span>&copy; <span id="year"></span> <span data-business-name>Kragon Auto Sales LLC</span></span>
+      <span
+        >&copy; <span id="year"></span>
+        <span data-business-name>Kragon Auto Sales LLC</span></span
+      ><span>Jackson, KY</span>
     </footer>
-
-    <script src="assets/app.js?v=8"></script>
+    <script src="assets/app.js?v=11"></script>
   </body>
 </html>
